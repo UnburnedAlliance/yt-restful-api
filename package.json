@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/UnburnedAlliance/yt-restful-api/issues"
   },
-  "homepage": "https://github.com/UnburnedAlliance/yt-restful-api#readme"
+  "homepage": "https://github.com/UnburnedAlliance/yt-restful-api#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
 }
