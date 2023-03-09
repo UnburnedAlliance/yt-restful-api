@@ -1,2 +1,3 @@
-FOllowing tutorial:
-https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
+Part of "Project 401872".
+
+API service for the web app, public and private pages.
